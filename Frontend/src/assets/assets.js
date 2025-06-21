@@ -9,6 +9,7 @@ import sample_img_1 from './sample_img_1.jpg'
 
 
 import Car from './Car.png'
+
 import sample_img_2 from './sample_img_2.jpg'
 import War from './War.png'
 import Gril from './Gril.png'
