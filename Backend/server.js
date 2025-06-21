@@ -11,7 +11,7 @@ const app = express()
 
 // ✅ CORS configuration
 const allowedOrigins = [
-  'https://imagify-otji-git-main-chamals-projects-9ac8fb1f.vercel.app', // your frontend Vercel link
+  'https://imagify-otji.vercel.app', // your frontend Vercel link
   'http://localhost:5173' // for local testing
 ]
 
