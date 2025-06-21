@@ -6,7 +6,9 @@ import Linkedln_icon from './Linkedln_icon.svg'
 import star_icon from './star_icon.svg'
 import rating_star from './rating_star.svg'
 import sample_img_1 from './sample_img_1.jpg'
-import Car from './car.png'
+
+
+import Car from './Car.png'
 import sample_img_2 from './sample_img_2.jpg'
 import War from './War.png'
 import Gril from './Gril.png'
@@ -38,7 +40,9 @@ export const assets = {
     star_icon,
     rating_star,
     sample_img_1,
+
     Car,
+
     War,
     Gril,
     Queen,
